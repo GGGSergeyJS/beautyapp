@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beautyapp/static/css/main.4c039ae5.css",
+    "main.js": "/beautyapp/static/js/main.70e4bbe3.js",
+    "index.html": "/beautyapp/index.html",
+    "main.4c039ae5.css.map": "/beautyapp/static/css/main.4c039ae5.css.map",
+    "main.70e4bbe3.js.map": "/beautyapp/static/js/main.70e4bbe3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c039ae5.css",
+    "static/js/main.70e4bbe3.js"
+  ]
+}
